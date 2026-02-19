@@ -3,7 +3,7 @@
 ![cover](./ToDoApp.png)
 
 <p align="center">
-  <a href="https://rad-lolly-605977.netlify.app/" target="_blank">🌐 View Live Demo</a>
+  <a href="https://app-todolist-nataliia-litskevych.netlify.app/" target="_blank">🌐 View Live Demo</a>
 </p>
 
 ---
