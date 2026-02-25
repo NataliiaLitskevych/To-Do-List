@@ -59,21 +59,14 @@ It is part of my **Frontend Developer** portfolio and demonstrates the ability t
 
    1. **Clone the repository:**
       git clone https://github.com/NataliiaLitskevych/To-Do-List.git
-
-      cd todo-react-app
-   3. **Install dependencies:**
+   2. **Install dependencies:**
       npm install
-   4. **Run the app:**
+   3. **Run the app:**
       npm start
-   5. **Open the app in your browser:**
+   4. **Open the app in your browser:**
       👉 http://localhost:3000
 
 ---
-
-## 🚀 Deployment
-
-This project is deployed on **Netlify**.  
-Live demo: [https://rad-lolly-605977.netlify.app/](https://rad-lolly-605977.netlify.app/)
 
 ## 🧠 Author
 
